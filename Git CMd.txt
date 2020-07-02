@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is Devloper 1
 This is Devloper 2
-
+This is devloper 3
